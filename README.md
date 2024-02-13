@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything i can handle
 - 📫 you can reach me from my Discord: ByKush#1361
-- 📫 you can reach me from my mail: hasanyesildag@ogr.bandirma.edu.tr
+- 📫 you can reach me from my mail: gtameric@skiff.com
 
 - I know C# and do projects on dotnet framework
 - I use unity and unreal engine to develope some mini games
