@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @ByKush24
 - 👀 I’m interested in anything that has a purpose
-- 🌱 I’m currently learning C++
+- 🎮 I am currently developing 2 games (1 PC/Console & 1 Mobile)
+- 🌐 I use C#, C++, TypeScript and Python most
+- 🧑‍💻 I can code in almost any language at least as an intermediate level
+-  
 - 💞️ I’m looking to collaborate on anything i can handle
 - 📫 you can reach me from my Discord: ByKush#1361
 - 📫 you can reach me from my mail: gtameric@skiff.com
